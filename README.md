@@ -4,7 +4,7 @@ This project contains Python scripts to automate network device configuration ba
 
 ## Prerequisites
 
-*   Python 3
+*   `Python 3`
 *   `netmiko`
 *   `cryptography`
 
