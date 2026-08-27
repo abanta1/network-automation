@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/usr/bin/env python3
 
 from netmiko import ConnectHandler
@@ -107,3 +108,4 @@ for a_device in all_devices:
 end_time = datetime.datetime.now()
 total_time = end_time - start_time
 print(total_time)
+

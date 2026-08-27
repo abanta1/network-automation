@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 #!/usr/bin/env python3
 # Usage
 # python push_configs.py --ip 10.0.0.1 --config update.cfg
@@ -175,3 +176,4 @@ def main():
         
 if __name__ == "__main__":
     main()
+

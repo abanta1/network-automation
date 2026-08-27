@@ -1,3 +1,4 @@
+﻿# Copyright (c) 2000-2026 Anthony Banta - MIT License
 # Network Automation Scripts
 
 This project contains Python scripts to automate network device configuration backups and deployment.
@@ -55,3 +56,4 @@ Pushes configuration changes or commands to devices.
 ```bash
 python push_config.py --ip 10.0.0.1 --type cisco_ios --configfile commands.txt --config
 ```
+
